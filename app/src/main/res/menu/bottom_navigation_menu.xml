@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/page_home"
+        android:title="홈"
+        android:icon="@drawable/ic_home" />
+    <item
+        android:id="@+id/page_movie_list"
+        android:title="영화정보"
+        android:icon="@drawable/ic_movie" />
+    <item
+        android:id="@+id/page_movie_review"
+        android:title="리뷰보기"
+        android:icon="@drawable/ic_review" />
+    <item
+        android:id="@+id/page_user_rating"
+        android:title="평점/리뷰"
+        android:icon="@drawable/ic_rating" />
+    <item
+        android:id="@+id/page_info"
+        android:title="정보"
+        android:icon="@drawable/ic_user" />
+</menu>
